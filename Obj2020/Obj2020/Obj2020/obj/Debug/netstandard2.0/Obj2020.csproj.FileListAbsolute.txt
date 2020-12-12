@@ -1,0 +1,10 @@
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\bin\Debug\netstandard2.0\Obj2020.deps.json
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\bin\Debug\netstandard2.0\Obj2020.dll
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\bin\Debug\netstandard2.0\ref\Obj2020.dll
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\bin\Debug\netstandard2.0\Obj2020.pdb
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\Obj2020.AssemblyInfoInputs.cache
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\Obj2020.AssemblyInfo.cs
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\Obj2020.dll
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\ref\Obj2020.dll
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\Obj2020.pdb
+D:\Users\Administrador\Desktop\Obj2020\Obj2020\Obj2020\obj\Debug\netstandard2.0\Obj2020.csprojAssemblyReference.cache
